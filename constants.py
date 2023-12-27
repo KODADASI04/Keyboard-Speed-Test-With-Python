@@ -1,0 +1,1 @@
+PATH = "D:/Projelerim/Haftalık Projeler/Writing Speed Test - Python/Türkçe Kelimeler"
